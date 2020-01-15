@@ -1,7 +1,11 @@
 Adicionando mais uma linha teste
 Vamos testar rebase projeto-primeiro
 Vamos testar rebase projeto-primeiro-master
-
+Adicionando nova linha de teste1
+teste
+teste
+teste
+Adicionando uma nova linha de teste1
 teste
 este
 teste
