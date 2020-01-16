@@ -4,6 +4,7 @@ Vamos testar rebase projeto-primeiro-master
 Adicionando nova linha de teste1
 Adicionando nova linha de teste
 Vamos testar rebase
+Vamos tester git feth
 teste
 teste
 teste
