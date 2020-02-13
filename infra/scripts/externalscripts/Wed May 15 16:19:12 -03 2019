@@ -1,0 +1,9 @@
+Sending Access-Request of id 37 to 52.86.151.29 port 1812
+	User-Name = "4a78f252-91bb-4185-bee8-756bcad7f26f"
+	User-Password = "44419126"
+	NAS-IP-Address = 10.0.0.223
+	NAS-Port = 10
+	Message-Authenticator = 0x00000000000000000000000000000000
+	Framed-Protocol = PPP
+rad_recv: Access-Accept packet from host 52.86.151.29 port 1812, id=37, length=26
+	Session-Timeout = 60
